@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "My first facebook app entirely developed in PHP script!";
+echo "My first facebook app entirely developed in PHP script! Hopefully";
 ?>
 
 </body>
